@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'badword', 2 => 'replace', 3 => 'add_time', 4 => 'status', '_pk' => 'id', '_type' => array ( 'id' => 'int(10)', 'badword' => 'varchar(100)', 'replace' => 'varchar(100)', 'add_time' => 'int(10)', 'status' => 'tinyint(1)', ), ); ?>

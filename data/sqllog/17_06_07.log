@@ -1,0 +1,2 @@
+[ 2017-06-07T21:26:16+08:00 ] ::1 /zhaopin42/index.php?m=admin&c=database&a=optimize
+SQL: SHOW TABLE STATUS FROM `zhaopin42` WHERE Data_free>0 [RunTime:0.391s] [IP:0.0.0.0] [AddTime:1496841976] [qscms]

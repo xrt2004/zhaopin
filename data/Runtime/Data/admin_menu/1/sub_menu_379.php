@@ -1,0 +1,1 @@
+<?php	return array ( 'btn' => array ( 0 => array ( 'id' => '380', 'name' => '详情', 'menu_type' => '0', 'module_name' => 'Admin', 'controller_name' => 'LowEffiSql', 'action_name' => 'detail', 'data' => '', 'stat' => '', ), ), ); ?>

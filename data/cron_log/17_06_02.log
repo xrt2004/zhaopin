@@ -1,0 +1,12 @@
+[ 2017-06-02T21:37:25+08:00 ] ::1 /zhaopin42/index.php?m=Admin&c=index&a=index
+INFO: Cron:ClearPromotion Runat 2017-06-02 21:37:25 Use 0.061004 s 
+Cron:AutoRefreshResume Runat 2017-06-02 21:37:25 Use 0.000000 s 
+Cron:AutoRefreshJobs Runat 2017-06-02 21:37:25 Use -0.007000 s 
+Cron:ClearExpiredSetmeal Runat 2017-06-02 21:37:25 Use -0.009000 s 
+
+[ 2017-06-02T22:15:54+08:00 ] 192.168.1.100 /zhaopin42/?m=Mobile
+INFO: Cron:ClearPromotion Runat 2017-06-02 22:15:54 Use 0.031200 s 
+Cron:AutoRefreshResume Runat 2017-06-02 22:15:54 Use 0.000000 s 
+Cron:AutoRefreshJobs Runat 2017-06-02 22:15:54 Use 0.000000 s 
+Cron:ClearExpiredSetmeal Runat 2017-06-02 22:15:54 Use 0.000000 s 
+

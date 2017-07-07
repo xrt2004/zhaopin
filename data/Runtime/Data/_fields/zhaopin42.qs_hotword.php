@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'w_id', 1 => 'w_word', 2 => 'w_hot', '_pk' => 'w_id', '_type' => array ( 'w_id' => 'int(10) unsigned', 'w_word' => 'varchar(120)', 'w_hot' => 'int(10) unsigned', ), ); ?>

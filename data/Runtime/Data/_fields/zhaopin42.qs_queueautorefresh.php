@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'pid', 2 => 'type', 3 => 'uid', 4 => 'refreshtime', '_pk' => 'id', '_type' => array ( 'id' => 'int(10) unsigned', 'pid' => 'int(10) unsigned', 'type' => 'tinyint(1) unsigned', 'uid' => 'int(10) unsigned', 'refreshtime' => 'int(10) unsigned', ), ); ?>

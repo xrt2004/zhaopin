@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'uid', 2 => 'resume_id', 3 => 'img', 4 => 'title', 5 => 'addtime', 6 => 'audit', '_pk' => 'id', '_type' => array ( 'id' => 'int(10) unsigned', 'uid' => 'int(10) unsigned', 'resume_id' => 'int(10) unsigned', 'img' => 'varchar(50)', 'title' => 'varchar(20)', 'addtime' => 'int(10) unsigned', 'audit' => 'tinyint(1)', ), ); ?>

@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'g_id', 1 => 'g_alias', 2 => 'g_name', 3 => 'g_sys', '_pk' => 'g_id', '_type' => array ( 'g_id' => 'int(10) unsigned', 'g_alias' => 'varchar(60)', 'g_name' => 'varchar(100)', 'g_sys' => 'tinyint(1) unsigned', ), ); ?>

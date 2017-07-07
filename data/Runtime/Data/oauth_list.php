@@ -1,0 +1,1 @@
+<?php	return array ( 'sina' => array ( 'alias' => 'sina', 'name' => '新浪微博', 'config' => 'N;', ), 'qq' => array ( 'alias' => 'qq', 'name' => '腾讯QQ', 'config' => 'N;', ), 'taobao' => array ( 'alias' => 'taobao', 'name' => '淘宝', 'config' => 'N;', ), 'weixin' => array ( 'alias' => 'weixin', 'name' => '微信', 'config' => 'N;', ), ); ?>

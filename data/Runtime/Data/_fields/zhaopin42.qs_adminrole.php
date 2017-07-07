@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'name', 2 => 'groups', 3 => 'mids', 4 => 'remark', 5 => 'ordid', 6 => 'status', '_pk' => 'id', '_type' => array ( 'id' => 'int(10)', 'name' => 'varchar(50)', 'groups' => 'varchar(500)', 'mids' => 'varchar(500)', 'remark' => 'text', 'ordid' => 'int(10)', 'status' => 'tinyint(1)', ), ); ?>

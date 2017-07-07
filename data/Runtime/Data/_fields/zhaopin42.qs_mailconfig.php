@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'name', 2 => 'value', '_pk' => 'id', '_type' => array ( 'id' => 'smallint(5) unsigned', 'name' => 'varchar(100)', 'value' => 'text', ), ); ?>

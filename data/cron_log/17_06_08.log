@@ -1,0 +1,12 @@
+[ 2017-06-08T20:11:33+08:00 ] ::1 /zhaopin42/
+INFO: Cron:ClearPromotion Runat 2017-06-08 20:11:33 Use 0.091005 s 
+Cron:AutoApplyJobs Runat 2017-06-08 20:11:33 Use -0.004000 s 
+Cron:AutoRefreshResume Runat 2017-06-08 20:11:33 Use -0.027001 s 
+Cron:AutoRefreshJobs Runat 2017-06-08 20:11:33 Use -0.034002 s 
+Cron:ClearExpiredSetmeal Runat 2017-06-08 20:11:33 Use -0.037002 s 
+Cron:ClearOrder Runat 2017-06-08 20:11:33 Use -0.065004 s 
+
+[ 2017-06-08T21:02:04+08:00 ] ::1 /zhaopin42/index.php?m=admin&c=consultant&a=index
+INFO: Cron:ClearPromotion Runat 2017-06-08 21:02:04 Use 0.026002 s 
+Cron:ClearExpiredSetmeal Runat 2017-06-08 21:02:04 Use 0.000000 s 
+
